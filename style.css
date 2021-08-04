@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    padding: 50px;
+}
+
+.links {
+    float: left;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    font-family: cursive;
+    cursor: pointer;
+}
+
+.links:hover {
+    background-color: dodgerblue;
+}
+
